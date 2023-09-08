@@ -1,9 +1,13 @@
-# SS_SIM335_M02_DV01_Singleton
- Baron textbook chapter 4 
+
+SS_SIM335_M02_DV01_Singleton
+
+Baron textbook chapter 4 
  
- https://sydneys00.github.io/SS_SIM335_M02_DV01_Singleton/
+https://sydneys00.github.io/SS_SIM335_M02_DV01_Singleton/
+
  
-#SS_SIM335_M02_DV01_State
+SS_SIM335_M02_DV01_State
+
 Baron textbook chapter 5
 
 (Github Page) : https://github.com/SydneyS00/SS_SIM335_M02_DV01_State
